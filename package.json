@@ -1,0 +1,16 @@
+{
+  "name": "dota2-simple-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Araan Branco <araanbranco@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dota2": "github:AraanBranco/node-dota2"
+  }
+}
